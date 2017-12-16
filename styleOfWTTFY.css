@@ -1,0 +1,81 @@
+.body{
+	padding: 200px 500px 200px 500px;
+	font-family: Monospace;   
+	font-size: 15px;
+	font-style: bold;
+	border-color: green;
+}
+
+.name{
+	padding-top: 0px;
+	padding-left: 6px;
+	padding-right: 35px;
+	padding-bottom: 2px;
+	font-family: Lobster; 
+	font-size: 60px;
+	color: white;
+	cursor: pointer;
+	font-style: bold;
+}
+
+.log{
+	width: 80px;
+	height: 10px;
+    margin-left: 900px;
+    position: fixed;
+    top: 0px;
+    padding-left: 10px;
+	color: white;
+	font-size: 1.5em;
+	padding-top : 10px;
+	cursor: pointer;
+	background-color: #999900;
+}
+
+
+#Table {
+	margin-left: 400px;
+	height: 50px;
+	display: flex;
+	flex-direction: row;
+}
+
+.general {
+	height: 100px;
+	background-color: #999900 ;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+}
+
+.red {
+	opacity: 0.5;
+}
+
+
+.blue {
+	background-color: blue;
+}
+.change{
+	background-color: #380B61;
+}
+
+.round{
+     overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+    width:90px;
+    height:90px;
+
+
+}
+
+ 
+
+}
+
+
+
